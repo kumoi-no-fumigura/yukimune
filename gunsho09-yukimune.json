@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/yukimune",
  "yomi": "おおくらきょうゆきむねきょうしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "長承元年（1132）以後",
+  "author": "源行宗（1064〜1143）",
+  "desc": "大蔵卿源行宗の家集。冒頭に、長承元年（1132）12月の火災のあと思い出すままに書いたとある。贈答や題詠を収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -4053,6 +4058,6 @@
   "poems": 356,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
